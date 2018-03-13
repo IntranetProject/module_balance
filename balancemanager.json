@@ -1,5 +1,6 @@
 {
   "name": "Balance Manager",
+  "active": false,
   "version": "0.1",
   "priority": "1",
   "baseperm": "1",
